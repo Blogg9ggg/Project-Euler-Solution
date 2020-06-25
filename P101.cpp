@@ -1,3 +1,8 @@
+/*
+*   鎷夋牸鏈楁棩鎻掑�兼硶
+*/
+
+
 #include <bits/stdc++.h>
 using namespace std;
 #define lson l,m,rt<<1
@@ -57,7 +62,7 @@ class Fraction{
 };
 
 namespace Lagrange_Interpolation_Polynomial {
-    const int D = 100;  //要用到的最高次幂（尽量取稍大）
+    const int D = 100;  //瑕佺敤鍒扮殑鏈�楂樻骞傦紙灏介噺鍙栫◢澶э級
     int n;
     LL y[D];
     Fraction L(LL x,int j){

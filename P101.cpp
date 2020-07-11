@@ -28,7 +28,6 @@ class Fraction{
             denominator = 1;
         }
         Fraction(LL nume, LL deno){
-//            printf("nume = %lld, deno = %lld\n", nume, deno);
             if(!nume){
                 numerator = 0;
                 denominator = 1;

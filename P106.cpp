@@ -43,7 +43,7 @@ int main(){
     /* Part 1 */
     for(int i=4;i<=12;i+=2)
         ans+=C[12][i]*C[i][i/2];
-    ans/=2;
+    ans /= 2;
 
     /* Part 2 */
     for(int i=2;i<=6;i++)   ans-=C[12][2*i]*S[i];

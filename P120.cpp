@@ -21,9 +21,6 @@ int main(){
             now=2*n*a%aa;
         }
         ans+=rmax;
-        if(a==7){
-            printf("rmas = %d\n",rmax);
-        }
     }
     printf("%lld\n",ans);
 

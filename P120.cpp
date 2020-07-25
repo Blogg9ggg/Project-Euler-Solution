@@ -1,6 +1,5 @@
 /*
-*   结论1: 若 n 为偶数，则 r = 2. // 将 [(a-1)^n + (a+1)^n] 二项展开后即可得到这个结论.
-*   
+*   详情请看解析：https://github.com/Blogg9ggg/Project-Euler-Solution/blob/master/Analysis/P120.md
 */
 #include <bits/stdc++.h>
 using namespace std;

@@ -1,5 +1,5 @@
 /*
-*   与 P123 类似, 可以看看 Project-Euler-Solution/Analysis/P120.md
+*   与 P120 类似, 可以看看 Project-Euler-Solution/Analysis/P120.md
 */
 
 #include <bits/stdc++.h>

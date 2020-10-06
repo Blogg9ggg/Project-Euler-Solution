@@ -1,3 +1,5 @@
+// 这个 "over five-thousand" 把我秀晕了.
+// 自己把txt文件去逗号和双引号. 
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long LL;
